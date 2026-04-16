@@ -4,7 +4,7 @@
 Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixonado por tecnologia.
 
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
-* 💻 Estou me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
+* 💻 Estou me aprofundando em ** Back-End em Java**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
 * 📫 Entre em contato: davizmartins08@gmail.com
 * 📄 Conheça mais sobre mim: [LinkedIn](www.linkedin.com/in/davi-martins-94a463391)
 
