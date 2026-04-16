@@ -1,7 +1,7 @@
 ## Eai, Eu sou o Davi  👋
 
 
-Estudante de **Ciências da Computação na PUCMG**, tenho 19 anos e sou apaixonado por desenvolvimento de software.
+Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixonado por tecnologia.
 
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
 * 💻 Estou me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
