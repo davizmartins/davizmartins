@@ -1,5 +1,8 @@
-## Eai, Eu sou o Davi  👋
-
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&color=A208AB&lines=Hi+There!+I%27m+Davi+Martins!+✌️"
+  />
+</h1>
 
 Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixonado por tecnologia.
 
@@ -14,6 +17,7 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 
 ### 🤖 Linguagens e Tecnologias
 
+<div align="left">
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java"/>
@@ -26,4 +30,34 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
 
 </p>
+
+---
+## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=davizmartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizmartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
+</div>
+
+<h3 align="center">
+  <div align="center">
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=30&center=true&vCenter=true&width=700&height=70&duration=6000&color=A208AB&lines=Thanks+for+visiting!+👋;"
+      />
+  </div>  
+</h3>
 
