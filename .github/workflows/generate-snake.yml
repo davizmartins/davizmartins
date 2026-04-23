@@ -2,12 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Roda automaticamente toda meia-noite
+  workflow_dispatch: # Permite que você rode manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Garante permissão para salvar a imagem
+    
     steps:
       - name: Generate snake gif
         uses: Platane/snk@v3
@@ -15,7 +18,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23bd93f9&color_dots=%23282a36,%2344475a,%236272a4,%23bd93f9,%23ff79c6
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23bd93f9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
