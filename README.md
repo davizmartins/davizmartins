@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&color=A208AB&lines=Hi+There!+I%27m+Davi+Martins!+✌️"
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&color=FFFFFF&lines=Hi+There!+I%27m+Davi+Martins!+✌️"
   />
 </h1>
 
@@ -40,14 +40,14 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=davizmartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=davizmartins&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizmartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizmartins&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
@@ -56,7 +56,7 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 <h3 align="center">
   <div align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=30&center=true&vCenter=true&width=700&height=70&duration=6000&color=A208AB&lines=Thanks+for+visiting!+👋;"
+        src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&center=true&vCenter=true&width=700&height=70&duration=6000&color=ffffff&lines=Thanks+for+visiting!+👋;"
       />
   </div>  
 </h3>
