@@ -4,6 +4,7 @@
   />
 </h1>
 
+### 🧑‍💻 SOBRE MIM
 Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixonado por tecnologia.
 
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
