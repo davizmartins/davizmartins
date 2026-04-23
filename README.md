@@ -52,6 +52,12 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 </p>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davizmartins/davizmartins/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davizmartins/davizmartins/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/davizmartins/davizmartins/output/github-snake.svg">
+</picture>
+
 <h3 align="center">
   <div align="center">
       <img
