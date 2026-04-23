@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&color=FFFFFF&lines=Hi+There!+I%27m+Davi+Martins!+✌️"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&color=FFFFFF&lines=Hi+There!+I%27m+Davi+Martins!+✌️"
   />
 </h1>
 
@@ -61,7 +61,7 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 <h3 align="center">
   <div align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&center=true&vCenter=true&width=700&height=70&duration=6000&color=ffffff&lines=Thanks+for+visiting!+👋;"
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=70&duration=6000&color=ffffff&lines=Thanks+for+visiting!+👋;"
       />
   </div>  
 </h3>
