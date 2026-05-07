@@ -8,15 +8,15 @@
 
 ```json
 {
-  "nome": "Davi Martins",
-  "idade": 19,
-  "formacao": "Computer Science",
-  "foco": "Desenvolvimento Back-End com Java e Spring Boot",
-  "contato": {
+  "name": "Davi Martins",
+  "age": 19,
+  "education": "Computer Science at PUC Minas",
+  "focus": "Back-End Development with Java & Spring Boot",
+  "contact": {
     "email": "davizmartins08@gmail.com",
     "linkedin": "www.linkedin.com/in/davi-martins-94a463391"
   }
-} 
+}
 ```
 
 
