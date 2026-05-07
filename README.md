@@ -4,7 +4,7 @@
   />
 </h1>
 
-### 🧑‍💻 Sobre Mim
+### 🧑‍💻 About Me
 
 ```json
 {
@@ -22,7 +22,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <div align="left">
 <p align="left">
@@ -39,7 +39,7 @@
 </p>
 
 ---
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="left">
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davizmartins&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=pt-br" />
