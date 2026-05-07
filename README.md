@@ -36,7 +36,7 @@ Estudante de **Ciências da Computação na PUC/MG**, tenho 19 anos e sou apaixo
 ---
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davizmartins&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=pt-br" />
 
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davizmartins&theme=github_dark_dimmed&layout=compact&langs_count=8" />
