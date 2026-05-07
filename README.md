@@ -4,7 +4,7 @@
   />
 </h1>
 
-### 🧑‍💻 About Me
+### About Me :
 
 ```json
 {
@@ -22,7 +22,7 @@
 
 ---
 
-### 🤖 Languages ​​and Technologies
+### Languages ​​and Technologies
 
 <div align="left">
 <p align="left">
