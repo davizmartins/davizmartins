@@ -14,7 +14,7 @@
   "focus": "Back-End Development with Java & Spring Boot",
   "contact": {
     "email": "davizmartins08@gmail.com",
-    "linkedin": "www.linkedin.com/in/davi-martins-94a463391"
+    "linkedin": "www.linkedin.com/in/davizmartins"
   }
 }
 ```
