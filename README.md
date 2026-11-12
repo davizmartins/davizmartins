@@ -13,7 +13,7 @@
   "education": "Computer Science at PUC Minas",
   "focus": "Back-End Development with Java & Spring Boot",
   "contact": {
-    "email": "davizmartins08@gmail.com",
+    "email": "davi.rogmartins@gmail.com",
     "linkedin": "www.linkedin.com/in/davizmartins"
   }
 }
